@@ -1,0 +1,61 @@
+[{
+        "id": "mars-colony-funding",
+        "title": "Private Space Exploration Faces Funding Crunch After Mars Colony Delay",
+        "description": "The ambitious 'Ares 7' mission has been postponed indefinitely, sparking a major debate over private sector viability in deep space ventures.",
+        "image": "https://cdn.mos.cms.futurecdn.net/7JVdpbdwe8MMyNBQer9BzU-1200-80.jpg",
+        "category": "Science",
+        "readTime": "10 min read",
+        "source": "AstroCorp",
+        "time": "5 minutes ago"
+    },
+    {
+        "id": "quantum-leap-computing",
+        "title": "Researchers Achieve Stable Qubit Entanglement at Room Temperature",
+        "description": "A breakthrough in quantum computing stability could accelerate the development of the next generation of super-fast processors.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe2DTPcQwWWCeODyTtgjdWi8LH-jejvHMzw&s",
+        "category": "Technology",
+        "readTime": "6 min read",
+        "source": "MIT Lab",
+        "time": "1 hour ago"
+    },
+    {
+        "id": "asia-trade-deal",
+        "title": "New Asia-Pacific Trade Agreement Set to Redefine Global Supply Chains",
+        "description": "The landmark economic treaty, signed by ten nations, promises tariff reductions and major logistics reforms by 2026.",
+        "image": "https://img.jakpost.net/c/2023/11/14/2023_11_14_144334_1699932694._large.jpg",
+        "category": "Business",
+        "readTime": "8 min read",
+        "source": "Financial Times",
+        "time": "3 hours ago"
+    },
+    {
+        "id": "elections-polling-surge",
+        "title": "Surprise Polling Surge for Independent Candidate in Key Metropolitan Area",
+        "description": "The latest voter surveys show a significant and unexpected swing towards the independent, shaking up the traditional two-party race.",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2021/04/AP_21096261246310.jpg?resize=770%2C513&quality=80",
+        "category": "Politics",
+        "readTime": "5 min read",
+        "source": "PollWatch",
+        "time": "5 hours ago"
+    },
+    {
+        "id": "hollywood-strike-ends",
+        "title": "Hollywood Writers' Strike Concludes with Historic Deal on AI Usage",
+        "description": "Writers and studios reach a tentative agreement, focusing heavily on minimum staffing requirements and protections against AI replacing human creativity.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfbxoYlSAd81a73FFcmpAmmFsan4uGSfqag&s",
+        "category": "Culture",
+        "readTime": "7 min read",
+        "source": "Variety",
+        "time": "1 day ago"
+    },
+    {
+        "id": "record-breaking-heatwave",
+        "title": "Southern Hemisphere Battles Record-Breaking Heatwave, Emergency Declared",
+        "description": "Several countries have issued red alerts as temperatures exceed historical averages by over 10 degrees Celsius, straining power grids and water supplies.",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/severe-heatwave-kills-5-in-delhi--10-in-noida-191025752-16x9.jpg?VersionId=bRgZjq1Am0Iwn9WEEQyq7ZczIj3Bmyww&size=690:388",
+        "category": "Climate",
+        "readTime": "9 min read",
+        "source": "Global Weather",
+        "time": "2 days ago"
+    }
+]
