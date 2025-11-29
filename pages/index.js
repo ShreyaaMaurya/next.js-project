@@ -15,7 +15,7 @@ export async function getStaticProps() {
     title: "Heatwaves are getting worse – but which countries are most at risk?: New research",
     description: "Research reveals countries where record-breaking heatwaves are likely to cause most harm",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStpUKwKWg3A2zrKHl_5G9VxLL6p7xW7FWXwg&s",
-    category: "Movies",
+    category: "Climate",
     readTime: "4 min read",
     source: "newslo",
     time: "12 minutes ago"
